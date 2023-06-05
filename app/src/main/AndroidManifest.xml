@@ -27,6 +27,15 @@
         </activity>
         <activity android:name=".ListViewActivity"/>
         <activity android:name=".ListViewDetail"/>
+        <activity android:name=".Letter_Picture"/>
+        <activity android:name=".Letter_Picture_Result"/>
+        <activity android:name=".Picture_Word"/>
+        <activity android:name=".Picture_Word_Result"/>
+        <activity android:name=".QuizPopup3_1_1"/>
+        <activity android:name=".Choose2_1_2"/>
+        <activity android:name=".Popup2_1_1"/>
+        <activity android:name=".Training2_1"/>
+
 
 
     </application>
